@@ -1,0 +1,1 @@
+from .kawaii import KawaiiAPI
